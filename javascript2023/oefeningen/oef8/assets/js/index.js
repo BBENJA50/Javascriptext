@@ -17,3 +17,7 @@ function reverse(){
     p.textContent = array1.reverse();
     result.appendChild(p);
 }
+function leegMaken(){
+    array1=[];
+    result.replaceChildren();
+}

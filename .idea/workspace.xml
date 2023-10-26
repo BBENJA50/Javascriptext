@@ -5,13 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="87e60437-0ad2-4edd-bea3-a47a8923bbe6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/javascript2023/oefeningen/oef8/assets/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javascript2023/oefeningen/oef8/assets/js/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javascript2023/oefeningen/oef8/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javascript2023/oefeningen/oef9/assets/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javascript2023/oefeningen/oef9/assets/js/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javascript2023/oefeningen/oef9/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript2023/oefeningen/oef8/assets/js/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/javascript2023/oefeningen/oef8/assets/js/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript2023/oefeningen/oef8/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/javascript2023/oefeningen/oef8/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +64,7 @@
       <option name="presentableId" value="Default" />
       <updated>1698220845027</updated>
       <workItem from="1698220848775" duration="7344000" />
-      <workItem from="1698303550073" duration="15742000" />
+      <workItem from="1698303550073" duration="16512000" />
     </task>
     <servers />
   </component>

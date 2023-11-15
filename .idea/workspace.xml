@@ -5,8 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="87e60437-0ad2-4edd-bea3-a47a8923bbe6" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/javascript2023/oefeningen/oef8/assets/js/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/javascript2023/oefeningen/oef8/assets/js/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javascript2023/oefeningen/oef8/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/javascript2023/oefeningen/oef8/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/advanced/api/geolocation/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/advanced/api/webstorage/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/advanced/async/asyncfunction.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/advanced/async/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/advanced/async/index2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/transitionsandanimations/tena1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/transitionsandanimations/tena2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/transitionsandanimations/tena3/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/transitionsandanimations/tena4/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/transitionsandanimations/tena5/bugsbunny.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/transitionsandanimations/tena5/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/transitionsandanimations/tena6/bugsbunny.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/transitionsandanimations/tena6/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript2023/oefeningen/todo/assets/js/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/javascript2023/oefeningen/todo/assets/js/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +50,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/javascriptext/javascript2023/oefeningen",
+    "last_opened_file_path": "C:/javascriptext/transitionsandanimations",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -48,10 +61,12 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\javascriptext\transitionsandanimations" />
       <recent name="C:\javascriptext\javascript2023\oefeningen" />
       <recent name="C:\javascriptext\javascript2023" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\javascriptext\advanced\async" />
       <recent name="C:\javascriptext\javascript2023\ajaxxml" />
     </key>
   </component>
@@ -64,7 +79,12 @@
       <option name="presentableId" value="Default" />
       <updated>1698220845027</updated>
       <workItem from="1698220848775" duration="7344000" />
-      <workItem from="1698303550073" duration="16512000" />
+      <workItem from="1698303550073" duration="17159000" />
+      <workItem from="1699258307371" duration="47000" />
+      <workItem from="1699517180241" duration="4682000" />
+      <workItem from="1699880487131" duration="4195000" />
+      <workItem from="1699948871134" duration="128000" />
+      <workItem from="1700042389050" duration="3110000" />
     </task>
     <servers />
   </component>

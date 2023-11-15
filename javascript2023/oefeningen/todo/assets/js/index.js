@@ -22,6 +22,7 @@ function addTask(newTaskInputValue){
     trash.classList="btn btn-danger";
     trash.style.color="white";
     label.innerText = newTaskInputValue;
+
     div.className="form-control";
     checkbox.className="form-check-input";
 
